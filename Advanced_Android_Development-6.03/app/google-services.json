@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "117386040142",
+    "firebase_url": "https://android-advanced-gcm.firebaseio.com",
+    "project_id": "android-advanced-gcm",
+    "storage_bucket": "android-advanced-gcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117386040142:android:83b792e26f07bf18",
+        "android_client_info": {
+          "package_name": "com.example.android.sunshine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117386040142-4sunbfpbafioupl32kf9bo8jo5ljlgih.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "117386040142-ok9uf4f1vf5r1b9081q7kfvcsn2186ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dx6EWdFmOelpDYJnjrGPolVmrgkau7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
